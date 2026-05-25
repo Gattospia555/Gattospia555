@@ -1,4 +1,4 @@
-# <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture> Haroo, Im Gatto :D
+# <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture> Haroo, I'm Gatto :D
 
 ### Something About Me
 As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual developer! I'm someone who enjoys a lot of different things like photography, anime, music, and much more. I've also created some really cool stuff that you might wanna go check out.
@@ -17,14 +17,6 @@ As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual
 ### My Journey & Achievements So Far
 - 🎓 **IT Studies** @ Istituto Superiore "Pascal - Comandini" *(4th year, ongoing)*
 - 💼 **Internship** @ ConfArtigianato
-
----
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://www.instagram.com/gattospia555"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="gatto555"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
 
 ---
 
@@ -62,22 +54,26 @@ As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual
 
 ---
 
-## 📚 Learning Path:
-*These are the technologies I am currently exploring through self-directed study:*
+## 🌟 Featured Projects:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+- 🐱 **[NekoTune](https://github.com/Gattospia555/NekoTune)** - A feline-themed music application (a Spotify alternative).
+
+---
+
+## 🔮 What's Next in the Pipeline:
+*A sneak peek into the projects I'll be tackling as soon as my current ones are wrapped up!*
+
+- 🚧 **[NekoCalendar]** - A cute calendar app, meant to be shared with friends :P. (Windows + Android)
+- 🚧 **[NekoNotes]** - A cute notes app. (Windows + Android)
+- 🚧 **[NekoPCBuilder]** - A simple app designed to make PC building easier.
+- 🚧 **And A Lot More...**
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gattospia555&show_icons=true&theme=radical&hide_border=true" alt="Gattospia555 Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gattospia555&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github.readme-stats.vercel.app/api?username=Gattospia555&show_icons=true&theme=tokyonight" alt="Gatto's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gattospia555&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -91,14 +87,34 @@ As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual
 
 ---
 
-## 🎯 Next Certifications & Goals:
-- 🎭 **Voice Over Portfolio** | Expanding digital presence
+## 🔭 Current Focus & Goals:
+- 🛡️ **Security Focus:** Building a solid portfolio of cybersecurity and networking tools.
+- 🚀 **Project Goal:** Launching the first working version of NekoTune.
+- 💻 App Development: Turning creative concepts into functional software with seamless user interfaces.
+- 🌱 **Learning:** Mastering Go and Rust to build faster CLI tools.
+- 🎙️ **Voice Over Portfolio:** Expanding my digital presence and voice acting repertoire.
+- 🎨 **Digital Art:** Upgrading my illustration skills on Clip Studio Paint.
+- 🤝 **Open Source:** Contributing to community projects and expanding my GitHub presence.
+- 📸 **Visual Storytelling:** Organizing a digital portfolio to showcase my best photography shots.
+
+### 📚 Learning Path:
+*These are the technologies I am currently exploring through self-directed study:*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 ---
 
-## 🔭 Current Focus:
-- 🌱 Advanced study of CyberSecurity & Network Analysis.
+## 🌐 Socials:
+<p align="left">
+<a href="https://www.instagram.com/gattospia555"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="gatto555"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
-- 🐍 Developing Python scripts for process automation.
+<br>
 
 *"Analyzing risk, protecting data, communicating value. Like a spy, I act with precision and discretion."* 🐾
