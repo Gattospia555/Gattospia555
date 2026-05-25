@@ -1,13 +1,22 @@
-# 🕵️‍♂️ Gattospia555 | IT & Creative Headquarters
+# <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture> Haroo, Im Gatto :D
 
-### 💫 About Me:
-Welcome to my HQ. I’m a 'hybrid' profile dedicated to merging the precision of coding with the impact of communication.
+### Something About Me
+As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual developer! I'm someone who enjoys a lot of different things like photography, anime, music, and much more. I've also created some really cool stuff that you might wanna go check out.
 
-- 🛡️ | **IT & Cybersecurity Student** @ Pascal-Comandini
-- 🔍 | **Future Risk Manager** & Networking Enthusiast
-- 🎙️ | **Voice Actor** & Digital Content Creator (Attivo dal 2019)
-- 📸 | **Photographer** & Digital Artist (Clip Studio Paint)
-- 🎸 | **Musician** (Acoustic Guitar & Flute)
+### Beyond the Code
+- 🛡️ | **Cybersecurity & Networking Enthusiast**
+- 🛠️ | **Hardware Enthusiast** & PC Builder
+- 🎨 | **UI/UX Enthusiast** *(Figma & Prototyping)*
+- 📸 | **Photographer** & Digital Artist *(Clip Studio Paint)*
+- 🎙️ | **Voice Actor** & Digital Content Creator *(Active since 2019)*
+- 🎸 | **Musician** *(Acoustic Guitar & Flute)* & **Music Addict**
+- 🎮 | **Gamer**
+- 🍿 | **Anime Lover**
+- 🐱 | **Cat Lover** & Fan of all things cute 🌸
+
+### My Journey & Achievements So Far
+- 🎓 **IT Studies** @ Istituto Superiore "Pascal - Comandini" *(4th year, ongoing)*
+- 💼 **Internship** @ ConfArtigianato
 
 ---
 
