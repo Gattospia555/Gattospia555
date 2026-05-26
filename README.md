@@ -73,7 +73,7 @@ As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual
 ## 📊 GitHub Stats:
 <p align="left">
   <img src="https://readmeneko.onrender.com/api?username=Gattospia555" alt="Gattospia555 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gattospia555&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://readmeneko.onrender.com//api/langs?username=Gattospia555&v=1" alt="Top Languages" />
 </p>
 
 ---
