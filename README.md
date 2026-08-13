@@ -28,7 +28,6 @@ As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -92,7 +91,7 @@ As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual
 ## 🔭 Current Focus & Goals:
 - 🛡️ **Security Focus:** Building a solid portfolio of cybersecurity and networking tools.
 - 🚀 **Project Goal:** Launching the first working version of NekoTune.
-- 💻 App Development: Turning creative concepts into functional software with seamless user interfaces.
+- 💻 **App Development:** Turning creative concepts into functional software with seamless user interfaces.
 - 🌱 **Learning:** Mastering Go and Rust to build faster CLI tools.
 - 🎙️ **Voice Over Portfolio:** Expanding my digital presence and voice acting repertoire.
 - 🎨 **Digital Art:** Upgrading my illustration skills on Clip Studio Paint.
@@ -103,7 +102,6 @@ As I mentioned before, I'm Gatto, also known as Gattospia555. I'm not your usual
 *These are the technologies I am currently exploring through self-directed study:*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
